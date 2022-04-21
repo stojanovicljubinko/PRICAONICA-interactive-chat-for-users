@@ -8,12 +8,13 @@ Also, the system offers user profiles for admins / writers / users and offers th
 * Graphic presentation of the program
 * Access the program using a username and password
 * Pleasant and interactive environment for the user
-* Storing books in memory with a file containing the contents of the book
-* View available books that are stored in memory
-* Illustrated menu display
-* Creating new content for writing, editing and deleting documents (books)
-* Checking the interestingness of the text and calculating the contents of the book
-* Fun content, ie mini-games realized in the library
+* Real-time multi-user communication
+* Possibility of disconnection without disturbing other users
+* Update currently active users in real time
+* Chat emoticons (previously used FB emoticons)
+* Chat gifs
+* Send private messages to the user
+* Ability to change the colour of the user
 
 For presentation only, access is granted with approval.
 
