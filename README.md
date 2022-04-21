@@ -18,4 +18,4 @@ Also, the system offers user profiles for admins / writers / users and offers th
 For presentation only, access is granted with approval.
 
 ### Screenshot of a given program
- ![Screenshot of a given program](https://github.com/stojanovicljubinko/PRICAONICA-interactive-chat-for-users/blob/f9e3d765d7cdef6bed4871d05ae955bf0f0c2a48/pri%C4%8Daonica%20photo.pngg)
+ ![Screenshot of a given program](https://github.com/stojanovicljubinko/PRICAONICA-interactive-chat-for-users/blob/main/photoprogram.png)
