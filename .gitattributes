@@ -1,0 +1,4 @@
+*.html linguist-detectable=false
+*.png linguist-detectable=false
+*.jpeg linguist-detectable=false
+*.ico linguist-detectable=false
