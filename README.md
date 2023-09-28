@@ -1,5 +1,5 @@
 # PRICAONICA - interactive chat for users
-Projects implemented at the University of Synergy. CLASSROOM in the electronic library system is an intuitive module of the electronic library system written for the purpose of communication between users.It is accompanied by a graphical interface with emoticons, gifs and enabled real-time communication.
+Projects implemented at the University Sinergija. CLASSROOM in the electronic library system is an intuitive module of the electronic library system written for the purpose of communication between users.It is accompanied by a graphical interface with emoticons, gifs and enabled real-time communication.
 *Further application development was discontinued by upgrading to a new version of the same application and developing a better user environment.*
 
 ### Details of the project realized:
